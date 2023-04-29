@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import deepanshu from "./deepanshu.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -19,19 +19,24 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import nextjs from "./tech/nextjs.png";
+import flutter from "./tech/flutter.png";
+import firebase from "./tech/firebase.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import redbasil from "./company/redbasil.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import manavsachdev from "./manavsachdev.png";
+import crypto from "./crypto.png";
+import redbasilweb from "./redbasilweb.png";
 
 export {
-  logo,
   backend,
   creator,
   mobile,
@@ -51,7 +56,6 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
   meta,
   shopify,
   starbucks,
@@ -59,4 +63,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  redbasil,
+  deepanshu,
+  nextjs,
+  firebase,
+  flutter,
+  manavsachdev,
+  crypto,
+  redbasilweb
 };
